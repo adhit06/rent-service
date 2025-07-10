@@ -1,0 +1,95 @@
+{
+	"info": {
+		"_postman_id": "72417b6d-e4c4-412e-8521-21d13e4cf7dc",
+		"name": "RENT SERVICE",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3858633"
+	},
+	"item": [
+		{
+			"name": "healthcheck",
+			"item": [
+				{
+					"name": "healthcheck",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "product",
+			"item": [
+				{
+					"name": "/product/{country}/{id}",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:8000/product/my/0197ee11-3043-75b5-94b2-d2ed87197e80",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"product",
+								"my",
+								"0197ee11-3043-75b5-94b2-d2ed87197e80"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "variant",
+			"item": [
+				{
+					"name": "/variant/{country}",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"name\": \"Plus 8/128GB Platinum\",\n    \"country\": \"my\",\n    \"period\": 6,\n    \"category\": [\n        \"0197ede8-ff94-7027-9b0e-b721882b28d4\",\n        \"0197ede4-9f11-7e23-9447-522f810eee79\"\n    ],\n    \"brand\": \"0197edc1-e16e-7022-aa9b-ae725a8bd90e\",\n    \"start_price\": 10,\n    \"end_price\": 500,\n    \"page\": 1,\n    \"size\": 5,\n    \"sort\": \"discount_price\",\n    \"order_by\": \"asc\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8000/variant/my",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"variant",
+								"my"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

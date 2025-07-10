@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "name": "Microsoft Surface Pro (11th Edition)",
+            "description": "The Microsoft Surface Pro (11th Edition) redefines productivity and portability with its innovative features and sleek design. Powered by the cutting-edge Snapdragon X Plus (10-Core) processor, it delivers exceptional performance, seamless multitasking, and energy efficiency. The vibrant LCD display offers stunning clarity and responsiveness, ideal for work, creativity, and entertainment. With built-in Copilot+ PC, the Surface Pro integrates intelligent AI assistance to enhance productivity, streamline workflows, and provide real-time suggestions tailored to your needs. Whether you're tackling demanding tasks or staying connected on the go, this versatile 2-in-1 device effortlessly adapts to your lifestyle.\n",
+            "specs": {
+                "depth": "287mm",
+                "ports": "2x USBC",
+                "width": "209mm",
+                "height": "9.3mm",
+                "memory": "16GB",
+                "weight": "895g",
+                "display": "13 inch PixelSense Flow Display",
+                "graphics": "Qualcomm Adreno",
+                "processor": "Snapdragon X Plus 10 Core with LCD display",
+                "dimensions": "28.7 cm x 20.9 cm x 0.93 cm",
+                "resolution": "2880 x 1920",
+                "year_model": 2024,
+                "rear_camera": "10MP",
+                "screen_size": "13 inch",
+                "connectivity": "WiFi, Bluetooth",
+                "refresh_rate": "120Hz",
+                "operating_system": "Windows 11 Home"
+            },
+            "category": [
+                {
+                    "name": "Phones & Tablets",
+                    "level": "level_1"
+                },
+                {
+                    "name": "Tablets",
+                    "level": "level_2"
+                }
+            ],
+            "brand": "Microsoft",
+            "variants": [
+                {
+                    "name": "Plus 8/128GB Platinum",
+                    "attributes": {
+                        "ram": "8gb",
+                        "type": "plus",
+                        "color": "platinum",
+                        "storage": "128"
+                    },
+                    "offers": [
+                        {
+                            "sku_no": "sku-MY00001",
+                            "normal_price": 321.96,
+                            "discount_price": 301.0,
+                            "quantity": 7,
+                            "warranty": 12,
+                            "country": {
+                                "name": "Malaysia",
+                                "code": "MY",
+                                "currency_code": "MYR"
+                            },
+                            "period": [
+                                6
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "country": "my",
+        "trace_id": "c6460943-2d66-414d-a355-1aa45756b064",
+        "page": 1,
+        "size": 5,
+        "total": 1
+    },
+    "code": 200,
+    "success": true,
+    "message": "Success"
+}

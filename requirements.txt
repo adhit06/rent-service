@@ -1,0 +1,10 @@
+fastapi==0.116.0
+uuid7==0.1.0
+shortuuid==1.0.13
+asyncpg==0.30.0
+httpx==0.28.1
+uvicorn[standard]==0.35.0
+sqlalchemy[asyncio]==2.0.41
+pydantic==2.11.7
+python-dotenv==1.1.1
+orjson==3.10.18

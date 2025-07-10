@@ -1,0 +1,270 @@
+{
+    "data": {
+        "name": "Microsoft Surface Pro (11th Edition)",
+        "description": "The Microsoft Surface Pro (11th Edition) redefines productivity and portability with its innovative features and sleek design. Powered by the cutting-edge Snapdragon X Plus (10-Core) processor, it delivers exceptional performance, seamless multitasking, and energy efficiency. The vibrant LCD display offers stunning clarity and responsiveness, ideal for work, creativity, and entertainment. With built-in Copilot+ PC, the Surface Pro integrates intelligent AI assistance to enhance productivity, streamline workflows, and provide real-time suggestions tailored to your needs. Whether you're tackling demanding tasks or staying connected on the go, this versatile 2-in-1 device effortlessly adapts to your lifestyle.\n",
+        "specs": {
+            "depth": "287mm",
+            "ports": "2x USBC",
+            "width": "209mm",
+            "height": "9.3mm",
+            "memory": "16GB",
+            "weight": "895g",
+            "display": "13 inch PixelSense Flow Display",
+            "graphics": "Qualcomm Adreno",
+            "processor": "Snapdragon X Plus 10 Core with LCD display",
+            "dimensions": "28.7 cm x 20.9 cm x 0.93 cm",
+            "resolution": "2880 x 1920",
+            "year_model": 2024,
+            "rear_camera": "10MP",
+            "screen_size": "13 inch",
+            "connectivity": "WiFi, Bluetooth",
+            "refresh_rate": "120Hz",
+            "operating_system": "Windows 11 Home"
+        },
+        "category": [
+            {
+                "name": "Phones & Tablets",
+                "level": "level_1"
+            },
+            {
+                "name": "Tablets",
+                "level": "level_2"
+            }
+        ],
+        "brand": "Microsoft",
+        "variants": [
+            {
+                "name": "Plus 8/128GB Platinum",
+                "attributes": {
+                    "ram": "8gb",
+                    "type": "plus",
+                    "color": "platinum",
+                    "storage": "128"
+                },
+                "offers": [
+                    {
+                        "sku_no": "sku-MY00001",
+                        "normal_price": 321.96,
+                        "discount_price": 301.0,
+                        "quantity": 7,
+                        "warranty": 12,
+                        "country": {
+                            "name": "Malaysia",
+                            "code": "MY",
+                            "currency_code": "MYR"
+                        },
+                        "period": [
+                            3,
+                            6,
+                            12
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Plus 8/128GB Saphire",
+                "attributes": {
+                    "ram": "8gb",
+                    "type": "plus",
+                    "color": "saphire",
+                    "storage": "128"
+                },
+                "offers": [
+                    {
+                        "sku_no": "sku-MY00002",
+                        "normal_price": 321.96,
+                        "discount_price": 301.0,
+                        "quantity": 5,
+                        "warranty": 12,
+                        "country": {
+                            "name": "Malaysia",
+                            "code": "MY",
+                            "currency_code": "MYR"
+                        },
+                        "period": [
+                            3,
+                            6,
+                            12
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Plus 8/128GB Dune",
+                "attributes": {
+                    "ram": "8gb",
+                    "type": "plus",
+                    "color": "dune",
+                    "storage": "128"
+                },
+                "offers": [
+                    {
+                        "sku_no": "sku-MY00003",
+                        "normal_price": 321.96,
+                        "discount_price": 301.0,
+                        "quantity": 3,
+                        "warranty": 12,
+                        "country": {
+                            "name": "Malaysia",
+                            "code": "MY",
+                            "currency_code": "MYR"
+                        },
+                        "period": [
+                            3,
+                            6,
+                            12
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Plus 8/128GB Black",
+                "attributes": {
+                    "ram": "8gb",
+                    "type": "plus",
+                    "color": "black",
+                    "storage": "128"
+                },
+                "offers": [
+                    {
+                        "sku_no": "sku-MY00004",
+                        "normal_price": 321.96,
+                        "discount_price": 301.0,
+                        "quantity": 1,
+                        "warranty": 12,
+                        "country": {
+                            "name": "Malaysia",
+                            "code": "MY",
+                            "currency_code": "MYR"
+                        },
+                        "period": [
+                            3,
+                            6,
+                            12
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elite 16/256GB Black",
+                "attributes": {
+                    "ram": "16gb",
+                    "type": "elite",
+                    "color": "black",
+                    "storage": "256"
+                },
+                "offers": [
+                    {
+                        "sku_no": "sku-MY00005",
+                        "normal_price": 487.91,
+                        "discount_price": 470.0,
+                        "quantity": 5,
+                        "warranty": 12,
+                        "country": {
+                            "name": "Malaysia",
+                            "code": "MY",
+                            "currency_code": "MYR"
+                        },
+                        "period": [
+                            3,
+                            6,
+                            12
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elite 16/256GB Platinum",
+                "attributes": {
+                    "ram": "16gb",
+                    "type": "elite",
+                    "color": "platinum",
+                    "storage": "256"
+                },
+                "offers": [
+                    {
+                        "sku_no": "sku-MY00006",
+                        "normal_price": 487.91,
+                        "discount_price": 470.0,
+                        "quantity": 3,
+                        "warranty": 12,
+                        "country": {
+                            "name": "Malaysia",
+                            "code": "MY",
+                            "currency_code": "MYR"
+                        },
+                        "period": [
+                            3,
+                            6,
+                            12
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elite 16/256GB Saphire",
+                "attributes": {
+                    "ram": "16gb",
+                    "type": "elite",
+                    "color": "saphire",
+                    "storage": "256"
+                },
+                "offers": [
+                    {
+                        "sku_no": "sku-MY00007",
+                        "normal_price": 487.91,
+                        "discount_price": 470.0,
+                        "quantity": 1,
+                        "warranty": 12,
+                        "country": {
+                            "name": "Malaysia",
+                            "code": "MY",
+                            "currency_code": "MYR"
+                        },
+                        "period": [
+                            3,
+                            6,
+                            12
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elite 16/256GB Dune",
+                "attributes": {
+                    "ram": "16gb",
+                    "type": "elite",
+                    "color": "dune",
+                    "storage": "256"
+                },
+                "offers": [
+                    {
+                        "sku_no": "sku-MY00008",
+                        "normal_price": 487.91,
+                        "discount_price": 470.0,
+                        "quantity": 6,
+                        "warranty": 12,
+                        "country": {
+                            "name": "Malaysia",
+                            "code": "MY",
+                            "currency_code": "MYR"
+                        },
+                        "period": [
+                            3,
+                            6,
+                            12
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "id": "0197ee11-3043-75b5-94b2-d2ed87197e80",
+        "country": "my",
+        "trace_id": "c6460943-2d66-414d-a355-1aa45756b064"
+    },
+    "code": 200,
+    "success": true,
+    "message": "Success"
+}
