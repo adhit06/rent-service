@@ -201,7 +201,7 @@ Configure the environment variables based on the values specific to your local m
 ```bash
 ENVIRONMENT=development #default env
 PORT=8000 #default port
-KEEPALIVE=61 #the number must be greater than 1 second from keepalive load ballancer
+KEEPALIVE=61 #The number must be 1 second greater than the keepalive load balancer measurement.
 
 APP_NUM_WORKERS = 1
 APP_HASH = "db7794e" #this is example, in production will get from has commit id

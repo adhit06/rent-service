@@ -8,11 +8,6 @@ from sqlalchemy.orm import DeclarativeBase
 from pydantic import BaseModel
 
 class Base(DeclarativeBase):
-    """ class Config:
-        orm_mode = True
-        json_encoders = {
-            UUID: lambda u: str(u),
-        } """
 
     id = Column(String, primary_key=True)
     status = Column(Boolean, nullable=True)
